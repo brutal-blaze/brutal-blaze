@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 -                     Email: anshulfakirde@gmail.com
 -                     LinkedIn: www.linkedin.com/in/Anshul-Fakirde
--                     leetcode: leetcode.com/u/anshulfakirde/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
